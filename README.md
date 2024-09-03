@@ -5,7 +5,7 @@ Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
 Imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA?
 
-1. **`[ex01.py](./ex01.py)`**
+1. **`[ex01.py](./ex01.py)`**: Isso cria um link no README apontando para o arquivo `ex01.py`. Quando alguém clicar nesse link no GitHub, ele será redirecionado para o arquivo `ex01.py`.
 
 
 2) Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
